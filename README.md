@@ -1,3 +1,8 @@
+# Image of app
+
+![imagen](https://user-images.githubusercontent.com/58114327/218918215-6233dd0d-2817-4d73-8742-552ac3a49200.png)
+
+
 # chatgptflutter
 
 A new Flutter project.
